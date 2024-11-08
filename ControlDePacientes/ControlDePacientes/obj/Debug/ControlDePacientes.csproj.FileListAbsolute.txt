@@ -1,0 +1,11 @@
+C:\Users\labc201\Desktop\ControlDePacientes\ControlDePacientes\bin\Debug\ControlDePacientes.exe.config
+C:\Users\labc201\Desktop\ControlDePacientes\ControlDePacientes\bin\Debug\ControlDePacientes.exe
+C:\Users\labc201\Desktop\ControlDePacientes\ControlDePacientes\bin\Debug\ControlDePacientes.pdb
+C:\Users\labc201\Desktop\ControlDePacientes\ControlDePacientes\obj\Debug\ControlDePacientes.csproj.AssemblyReference.cache
+C:\Users\labc201\Desktop\ControlDePacientes\ControlDePacientes\obj\Debug\ControlDePacientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc201\Desktop\ControlDePacientes\ControlDePacientes\obj\Debug\ControlDePacientes.Form1.resources
+C:\Users\labc201\Desktop\ControlDePacientes\ControlDePacientes\obj\Debug\ControlDePacientes.Properties.Resources.resources
+C:\Users\labc201\Desktop\ControlDePacientes\ControlDePacientes\obj\Debug\ControlDePacientes.csproj.GenerateResource.cache
+C:\Users\labc201\Desktop\ControlDePacientes\ControlDePacientes\obj\Debug\ControlDePacientes.csproj.CoreCompileInputs.cache
+C:\Users\labc201\Desktop\ControlDePacientes\ControlDePacientes\obj\Debug\ControlDePacientes.exe
+C:\Users\labc201\Desktop\ControlDePacientes\ControlDePacientes\obj\Debug\ControlDePacientes.pdb

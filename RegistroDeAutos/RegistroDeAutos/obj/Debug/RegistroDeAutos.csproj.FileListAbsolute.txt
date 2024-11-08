@@ -1,0 +1,11 @@
+C:\Users\labc201\Desktop\RegistroDeAutos\RegistroDeAutos\bin\Debug\RegistroDeAutos.exe.config
+C:\Users\labc201\Desktop\RegistroDeAutos\RegistroDeAutos\bin\Debug\RegistroDeAutos.exe
+C:\Users\labc201\Desktop\RegistroDeAutos\RegistroDeAutos\bin\Debug\RegistroDeAutos.pdb
+C:\Users\labc201\Desktop\RegistroDeAutos\RegistroDeAutos\obj\Debug\RegistroDeAutos.csproj.AssemblyReference.cache
+C:\Users\labc201\Desktop\RegistroDeAutos\RegistroDeAutos\obj\Debug\RegistroDeAutos.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc201\Desktop\RegistroDeAutos\RegistroDeAutos\obj\Debug\RegistroDeAutos.Form1.resources
+C:\Users\labc201\Desktop\RegistroDeAutos\RegistroDeAutos\obj\Debug\RegistroDeAutos.Properties.Resources.resources
+C:\Users\labc201\Desktop\RegistroDeAutos\RegistroDeAutos\obj\Debug\RegistroDeAutos.csproj.GenerateResource.cache
+C:\Users\labc201\Desktop\RegistroDeAutos\RegistroDeAutos\obj\Debug\RegistroDeAutos.csproj.CoreCompileInputs.cache
+C:\Users\labc201\Desktop\RegistroDeAutos\RegistroDeAutos\obj\Debug\RegistroDeAutos.exe
+C:\Users\labc201\Desktop\RegistroDeAutos\RegistroDeAutos\obj\Debug\RegistroDeAutos.pdb

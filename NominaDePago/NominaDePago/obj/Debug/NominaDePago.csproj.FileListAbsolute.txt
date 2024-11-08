@@ -1,0 +1,11 @@
+C:\Users\labc201\Desktop\NominaDePago\NominaDePago\bin\Debug\NominaDePago.exe.config
+C:\Users\labc201\Desktop\NominaDePago\NominaDePago\bin\Debug\NominaDePago.exe
+C:\Users\labc201\Desktop\NominaDePago\NominaDePago\bin\Debug\NominaDePago.pdb
+C:\Users\labc201\Desktop\NominaDePago\NominaDePago\obj\Debug\NominaDePago.csproj.AssemblyReference.cache
+C:\Users\labc201\Desktop\NominaDePago\NominaDePago\obj\Debug\NominaDePago.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc201\Desktop\NominaDePago\NominaDePago\obj\Debug\NominaDePago.Form1.resources
+C:\Users\labc201\Desktop\NominaDePago\NominaDePago\obj\Debug\NominaDePago.Properties.Resources.resources
+C:\Users\labc201\Desktop\NominaDePago\NominaDePago\obj\Debug\NominaDePago.csproj.GenerateResource.cache
+C:\Users\labc201\Desktop\NominaDePago\NominaDePago\obj\Debug\NominaDePago.csproj.CoreCompileInputs.cache
+C:\Users\labc201\Desktop\NominaDePago\NominaDePago\obj\Debug\NominaDePago.exe
+C:\Users\labc201\Desktop\NominaDePago\NominaDePago\obj\Debug\NominaDePago.pdb
